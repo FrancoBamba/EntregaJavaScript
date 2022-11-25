@@ -1,0 +1,4 @@
+function validarCuit()
+{
+    alert ("hola");
+}
